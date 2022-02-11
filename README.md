@@ -2,7 +2,7 @@
 
 To understand NFTs, lets first look at the definition of fungibility. 
 
-Merriam Webster defines fungibility as : _"being somthing (such as money or a commodity) of such a nature that one part or quantity may be replaced by another equal or quanity in paying a debt or settling an account"_
+Merriam Webster defines fungibility as : _"being something (such as money or a commodity) of such a nature that one part or quantity may be replaced by another equal or quanity in paying a debt or settling an account"_
 
 <img src= "https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif" alt="drawing" width="300"/>
 
@@ -21,7 +21,7 @@ whereas, nfts or non fungible assets represent unique assets (e.g. cars, patents
 Question. If someone hands you a crushed INR 100 (or a $) vs a crushed painting you bought for say 50k. Which would still hold its value?  
 
 
-### Blockchain
+## Blockchain
 A blockchain is a continously growing list of records, called blocks which are linked and secured using cryptography[1]. 
 
 
@@ -45,7 +45,7 @@ A blockchain is a continously growing list of records, called blocks which are l
 
 Paper: How to Time Stamp a Digital Document
 
-#### SHA256 Hash
+## SHA256 Hash
 The SHA256 algorithm as built by the NSA
 SHA - Secure Hash Algorithm
 64 characters 
@@ -73,3 +73,6 @@ __The Avalance effect example:__
 
 
 <img src= "https://i.gzn.jp/img/2020/05/14/sha-256-animation/190_m.gif" alt="drawing" width="500"/>
+
+## NFT 
+NFT, or non-fungible token, is a unique digital file that resides on the blockchain so that ownership of that digital file can be tracked. It is a cryptographic “hash,” or a unique string of letters and numbers that is related to a specific asset or object.
