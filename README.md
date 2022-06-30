@@ -23,6 +23,14 @@ Question. If someone hands you a crushed INR 100 (or a $) vs a crushed painting 
 
 
 ## Blockchain
+
+__History__
+- Yap Island had a unique currency called Rai Stones
+- Stones couldn't be traded, so Yapese people used mental ledgers where tribe would keep a copy of the ledger in their head
+
+__The Byzantine Generals Problem__
+- The problem 
+
 A blockchain is a continously growing list of records, called blocks which are linked and secured using cryptography[1]. 
 
 
@@ -117,6 +125,8 @@ Tokens rely on smart contracts which are built on top of the different protocols
     - 18 Zeros (leading zeros):  <000000000000000000>5d97dc<...>
     
 # Terminologies
+
+List of terminologies accroding to Derick David [[1](https://medium.com/utopian/web3-terminology-you-should-know-about-9185429391eb)]
 
 ## Airdrop
 An Airdrop is a distribution of a cryptocurrency token or coin, usually for free, to numerous wallet addresses.
@@ -269,6 +279,7 @@ If a validator approves fraudulent transactions, then a portion of their stake w
 ## PoW (Proof of Work)
 A consensus mechanism that requires miners to complete complex mathematical puzzles in order to verify transactions and mint blocks.
 When a miner correctly solves a puzzle, they gain access to mint the next block and receive the corresponding block reward and transaction fees.
+
 ## Satoshis
 The smallest denomination of BTC, equal to 0.00000001 bitcoin. Satoshis are named after Bitcoin’s pseudonymous creator, Satoshi Nakamoto.
 Shitcoin
